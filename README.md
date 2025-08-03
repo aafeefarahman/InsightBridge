@@ -12,7 +12,8 @@ It is especially helpful for users with visual, hearing, or cognitive challenges
 
 ## 🛠️ Technologies Used
 - Python 
--Google Colab 
+- Google Colab
+- Streamlit
 - OpenAI (for classification/response generation) 
 - SpeechRecognition 
 - gTTS (Text-to-Speech) 
