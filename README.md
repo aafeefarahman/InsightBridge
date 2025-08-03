@@ -45,11 +45,11 @@ Easy to clone, modify, and redeploy.
 Many users, especially in multilingual communities, struggle to format, summarize, or grammatically refine their ideas. InsightBridge bridges this gap by using rule-based logic and AI tools for **content classification**, **summarization**, and **language correction**, helping users refine their communication with minimal effort.
 
 ** Tech Stack**
-Programming Language | Python 3.11                     
-Grammar Checking :[language-tool-python](https://github.com/jxmorris12/language-tool-python) 
-Summarization    : [Sumy NLP](https://github.com/miso-belica/sumy) 
+Programming Language:Python 3.11                
+Grammar Checking:[**language-tool-python](https://github.com/jxmorris12/language-tool-python)
+Summarization: [Sumy NLP](https://github.com/miso-belica/sumy) 
 Content Tokenization :NLTK                           
-Interface (Optional) :Google Colab       
+Interface (Optional) :Google Colab**      ** 
 ---
 ## Installation
 ✅ Option 1: Google Colab (Recommended for fast access)
