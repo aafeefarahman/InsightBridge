@@ -47,17 +47,16 @@ Many users, especially in multilingual communities, struggle to format, summariz
 ---
 ## Installation
 ✅ Option 1: Google Colab (Recommended for fast access)
-1. Open the [Colab Notebook](#)  
+1. Open the https://colab.research.google.com/ 
 2. Run the following in the first cell:
 python
 !pip install nltk sumy
 import nltk
 nltk.download('punkt')
-⚠️ Grammar checking requires Java 17+. Colab only supports Java 11.
+Grammar checking requires Java 17+. Colab only supports Java 11.
 
 ✅ Option 2: Local Setup (VS Code + Streamlit)
 Clone the repository:
-git clone https://github.com/your-username/InsightBridge.git
 
 **Install dependencies:**
 pip install -r requirements.txt
